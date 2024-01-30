@@ -1,4 +1,3 @@
-# sahilshanediwan
 <h1 align="center">Hi 👋, I'm Sahil Shanediwan</h1>
 <h3 align="center">A passionate python</h3>
 <img align="right" alt="coding" width="400"src"https://iconscout.com/lottie-animation/coding-error-8928574">
@@ -7,7 +6,7 @@
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **sahilshanediwan826@gmail.com**
+- 📫 How to reach me sahilshanediwan826@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
